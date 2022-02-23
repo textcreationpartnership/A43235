@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter written the third of September 1651. by John Hedworth of Harraton in the county of Durham Esquire, unto John Dodgson constable at Harraton, John Lax a leader of coles there, Steven Pattason a stathe-man there, Ralph Hinderson a leader of coles there, Robert Vickars overman there, Thomas Rutlas a digger of coles there; and all other workmen whatever, that belong either to the colepits, stathes, or keels of Haraton colliery</title>
+            <author>Hedworth, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43235</idno>
+            <idno type="STC">Wing H1352A</idno>
+            <idno type="STC">ESTC R213435</idno>
+            <idno type="EEBO-CITATION">99825819</idno>
+            <idno type="PROQUEST">99825819</idno>
+            <idno type="VID">30210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1794:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter written the third of September 1651. by John Hedworth of Harraton in the county of Durham Esquire, unto John Dodgson constable at Harraton, John Lax a leader of coles there, Steven Pattason a stathe-man there, Ralph Hinderson a leader of coles there, Robert Vickars overman there, Thomas Rutlas a digger of coles there; and all other workmen whatever, that belong either to the colepits, stathes, or keels of Haraton colliery</title>
+                  <author>Hedworth, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Hedworth.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  Early works to 1800.</term>
+               <term>Mines and mineral resources --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30210:1" rendition="simple:additions"/>
+            <head>A Copy of a Letter Written <date>the third of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1651.</date> by <hi>John Hedworth</hi> of <hi>Harraton</hi> in the County of <hi>Durham Eſquire,</hi> unto <hi>John Dodg<g ref="char:EOLhyphen"/>ſon</hi> Conſtable at <hi>Harraton, John Lax</hi> a Leader of Coles there, <hi>Steven Pattaſon</hi> a Stathe-man there, <hi>Ralph Hinderſon</hi> a Leader of Coles there, <hi>Robert Vickars</hi> Overman there, <hi>Thomas Rutlas</hi> a Digger of Coles there; and to all other Workmen whatever, that belong either to the Colepits, Stathes, or Keels of <hi>Har<g ref="char:EOLhyphen"/>raton</hi> Colliery.</head>
+            <opener>
+               <salute>NEighbours all,</salute>
+            </opener>
+            <p>Though I have never but dealt Neighbourly with you all; yet divers of you have dealt otherwiſe with me: and yet before I take that courſe againſt you that both nature, Law, and reaſon will afford me: I cannot but hereby un<g ref="char:EOLhyphen"/>der my hand acquaint you, That <hi>per</hi> advice upon Saterday laſt was 7 days, being the 23 of <hi>Auguſt</hi> 1651. I went to James Liddall your Steward or O<g ref="char:EOLhyphen"/>verſeer, and in the preſence of Richard Lilburn Eſquire; Lieut. Col. John Lilburn his ſon; and Mr. Richard Grey my brother in Law; And told him, That Sir John Hedworth deceaſed, my Fa<g ref="char:EOLhyphen"/>ther, was Lord, Owner and Proprietor of the Mannor of Harraton, and all the Colemines there<g ref="char:EOLhyphen"/>unto
+<pb n="2" facs="tcp:30210:2"/>belonging; which were now Legally and juſtly deſcended unto, or upon me, as his Eldeſt Son and Heir: and being of late fully attained to the age of 21 years, I could not in ſilence ſuffer my ſelf any longer to be deprived of my Right and Inheritance by will and power. And therefore I told him that he as Steward, ſet workmen at work upon my Cole-mines, againſt my will and minde; and it muſt be under the pretence of a Leaſe belonging to Mr. Joſiah Primate, or to Mr. Thomas Wray; but whether of them had the moſt right to the ſaid Leaſe, it was not much materiall to me now. But ſure I was, that by both their leaſes (under one of which the (I am ſure) preſent poſſeſ<g ref="char:EOLhyphen"/>ſors claims) there is a rent reſerved of 40 s per week to be paid to the ſaid Sr. John Hedworth my father, or his heirs, for their Houſe-keeping, in caſe there be ſo many Coles wrought as amounts to ſo much money; with a clauſe of Re-entry upon the ſaid Colliery for the ſaid Sir John Hedworth and his Heirs, in caſe of non-payment of the ſaid 40 ſhil<g ref="char:EOLhyphen"/>lings a week rent. And I further told him, I was therefore in a fair and friendly way come unto him with theſe my friends, as may witneſſes, to demand of him my ſaid 40 ſhillings rent for the laſt week, and forty ſhillings <hi>per</hi> week for all the reſt of the weeks arrear, ever ſince his Maſter Sir <hi>Arthur He<g ref="char:EOLhyphen"/>ſilrig,</hi> or any other of his Maſters wrought them: And in caſe immediate payment thereof was not made, I would make a formall ſeizure of the ſaid
+<pb n="3" facs="tcp:30210:2"/>Cole-mines, and diſcharge all Perſons whatſoever from working thereof. And in caſe they would not ceaſe, I would do my beſt (as by Law, equity, and Reaſon I might) to ſink the Keel, and break the Ginns that ſhould endeavour to work and car<g ref="char:EOLhyphen"/>ry away my Coles, ſeeing my Tenants could have no Legall fair proceedings, either from Sir <hi>Arthur,</hi> or the Commiſſioners above; and therefore as a Civil man, deſired him to go to his Maſter Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Haſlerig,</hi> or to Major <hi>Tolhurſt,</hi> or whom elſe he pleaſed, and acquaint them with ſo much, that ſo in a fair way I might have paid unto me without de<g ref="char:EOLhyphen"/>lay my ſaid Rent, and all the Arrears thereof ſince they wrought my Colliery, which is now about two years: And he taking his horſe that day, and riding off the ground; At night the ſame day I re<g ref="char:EOLhyphen"/>paired again to the ſaid <hi>James Liddall</hi> your Stew<g ref="char:EOLhyphen"/>ard, accompanied with my Uncle, Maſter <hi>Ralph Rocksby,</hi> and my Brother Maſter <hi>Richard Grey,</hi> and de<g ref="char:EOLhyphen"/>manded his anſwer; which was, That he had been with Major <hi>Tolhurſt,</hi> who had authorized him to tell me, That he would pay me no Rent at all, but that I muſt ſeek it where I could get it; and being denied my own, the aforeſaid Saturday night, I diſcharged all the work-men I could meet with, and commanded them at their perils to ceaſe to meddle in any kinde with my Cole-mines, without my expreſs leave and conſent.</p>
+            <p>And carrying a tender regard to the peace and welfare of my Native Countrey, now invaded by
+<pb n="4" facs="tcp:30210:3"/>robbers and ſtrangers. And for avoiding as much as in me lay the juſt occaſion of raiſing any tumults that might ſeem to have the face of my advantage to our publick enemies (the aforeſaid invadors) I was as ſparing as could be in doing of that which was neceſſary for me to do, in order for regaining my own right and juſt inheritance, which hath bin by force and violence taken from me and my Te<g ref="char:EOLhyphen"/>nants, and to this day as unjuſtly detained from us both, without the leaſt ſhadow or colour of Law or Juſtice (as my true friend and Counſellor Lieu<g ref="char:EOLhyphen"/>tenant Collonel <hi>John Lilburn</hi> hath fully proved in his Epiſtle to four of the Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding, ſitting at Haberdaſhers Hall at <hi>London,</hi> dated the 30 of <hi>July</hi> 1651, a Printed Coppie of which I herewith ſend you for your ſerious peru<g ref="char:EOLhyphen"/>ſall) and therefore with an Hatchet, I onely cut two of the Ropes that drew up the water; and the next day being Sunday, came five men in the habit of Countrey men (and ſo calling themſelves) with great Cudgels in their hands, pretending they came to keep the States right; but yet afterwards the aforeſaid <hi>Liddal,</hi> your chief Steward, and one <hi>Richard Gillary,</hi> another of your inferiour Stewards, or Overſeers, told me, and ſome of my friends, that they were Soldiers, and of the ſaid Major <hi>Tol<g ref="char:EOLhyphen"/>hurſt</hi> own Company. And further, the ſaid <hi>Liddall</hi> told me, in the preſence of my aforeſaid Uncle and Brother, That the ſaid Major <hi>Tolhurſt</hi> told him, that I muſt not ſtrive with him for the Collie<g ref="char:EOLhyphen"/>ry,
+<pb n="5" facs="tcp:30210:3"/>unleſs I could bring thirty thouſand men by force to take it from him. And upon Monday af<g ref="char:EOLhyphen"/>ter, being the 25 of <hi>Auguſt</hi> 1651, <hi>Ralph Hinderſon, Stephen Pattaſon,</hi> and others, were leading of my Coles, which by my authority were diſcharged from leading thereof by my Father in Law Maſter <hi>George Gray;</hi> and did all accordingly ceaſe; but there being ſince an addition of ſix Soldiers armed with Piſtols and Swords, ſaid to be of the ſaid Major <hi>Tolhurſts</hi> own Company; but yet produced no Commiſſion under any mans hand (but abſolutely denying that they have any ſuch) but onely act by the verball (and unwarrantable) order of the ſaid Major, a man that hath no power nor authority at all to command them hither: And yet like men ſubject to no Law, Rule or Government; by their wills, Swords and Piſtols, they aſſume unto them<g ref="char:EOLhyphen"/>ſelves a power to ſet a Guard upon my Colepits both night and day (after I am violently robbed of almoſt threeſcore head of my Cattel, and a great part of my Land of Inheritance by Sir <hi>Arthur Haſle<g ref="char:EOLhyphen"/>rig</hi> and the Commiſſioners of Sequeſtration) and threaten, beat, moſt ſhamefully abuſe, nail up the dores, force quarters from, and compel ſeveral of my friends and neighbours to yoke in their Hor<g ref="char:EOLhyphen"/>ſes and Oxen into Wains and Carts, and to lead my Coles; nay, and have come to my ſelf, and have commanded, and violently hindered me to lead my own Corn, and would produce unto me no written Commiſſion or Order they had from any
+<pb n="6" facs="tcp:30210:4"/>man ſo to do, although I earneſtly demanded it of them: Upon which I yeſterday, being the ſecond of <hi>September</hi> preſent, repaired to <hi>Durham</hi> to Collo<g ref="char:EOLhyphen"/>nel <hi>Francis Wren,</hi> and Maſter <hi>Thomas Dallivel,</hi> Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtration for this County, and in the preſence of my ſaid Father <hi>Grey,</hi> and his Son Maſter <hi>George Grey,</hi> acquainted them herewith, and deſired to know of them if the ſaid Soldiers had their Order for comming to the ſaid <hi>Harraton,</hi> and uſing me as they do; and they both averred they had none of theirs, nor they never heard any thing of it, untill I told them. In which regard, I have no other ground at all, but to look upon the ſaid pretended Soldiers (as a company of deſolate per<g ref="char:EOLhyphen"/>ſons, ſturdy rogues, theeves, and robbers) and as ſuch moſt fit by the Civil Magiſtrate to be appre<g ref="char:EOLhyphen"/>hended, and clapt in Goal, there to be kept untill they receive a Tryall for their lives, which I ſhall endeavour to do, to the utmoſt that Law will ina<g ref="char:EOLhyphen"/>ble me; but in the interim I deſire you at your pe<g ref="char:EOLhyphen"/>rils (unleſs they produce you a Legall and written Commiſſion, or order under ſome Hand or Hands legally authorized thereunto, to Quarter upon you, and command you as they do) That you no longer entertain them upon my ground, which Order I am ſure of it muſt be under two of the Commiſſioners hands of Sequeſtration, none elſe in this County having any power to pretend to ſend Soldiers to me, by violence to keep my eſtate from me, being neither Papiſt nor Delinquent; and
+<pb n="7" facs="tcp:30210:4"/>I am ſure of it, Sir <hi>Arthur Haſlerig</hi> at moſt is but one Commiſſioner (if that) and his Major <hi>Tolhurſt</hi> none at all. And therefore his written Warrant is no ways to be obeyed by you; who are no way under his Juriſdiction, Put however, what writ<g ref="char:EOLhyphen"/>ten Warrant is ſent unto you from any hand what<g ref="char:EOLhyphen"/>ever, I deſire to ſee it, and to take a Coppie of it. And I further adviſe you upon ſight hereof, for your own ſafety, That you repair to Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>ſelrig</hi> himſelf, and acquaint him with all paſſages, and deſire to know whether he will juſtifie that he hath given a written Order to his Soldiers to come to <hi>Harraton,</hi> and to do as they do; and if he ſay no: then do you deſire him to ſend for them as priſoners, and ſeverely puniſh them according to Law and Juſtice, and all thoſe that have ſo unwar<g ref="char:EOLhyphen"/>rantably ſent them: And alſo that you repair to Major <hi>Tolhurſt,</hi> and tell him what is done, and know of him whether he ſent them, or no, and wil juſtifie it; and in default of ſatisfaction from him, repair to the ſaid Comiſſioners, and demand of them their pleaſure in the thing, as alſo their Or<g ref="char:EOLhyphen"/>der to command them away. And I further warn you; and every of you, without a written Order from ſome Legall Magiſtrate or other; meddle nor make not with (upon any verball command from a<g ref="char:EOLhyphen"/>ny power whatſoever) to digg any more of my Coles in <hi>Harraton</hi> Colliery, to draw them, or any water out of my Pits, to throw them on the banks, lead them to the Water ſide, or any other places
+<pb n="8" facs="tcp:30210:5"/>whatſoever, to carry any of them away by Keels, Lyters, Waines, Carts, or any other means what<g ref="char:EOLhyphen"/>ſoever, at your utmoſt peril of being apprehended by me, according to Law, as Theeves and Rob<g ref="char:EOLhyphen"/>bers of me, of my goods and Chattels: And ha<g ref="char:EOLhyphen"/>ving all other extremities exerciſed towards you, that the Law will afford me to inflict upon you, or any of you.</p>
+            <p>And this I ſend you on purpoſe to forewarn you of your own danger, and to leave you without the leaſt excuſe, both before God and man.</p>
+            <closer>
+               <dateline>And in the preſence of thoſe whoſe names as witneſſes are hereunto Subſcribed, I ſet my Hand at my own Houſe at <hi>Harraton</hi> 
+                  <date>this third day of <hi>September</hi> 1651.</date>
+               </dateline>
+               <signed>John Hedworth.</signed>
+            </closer>
+            <postscript>
+               <list>
+                  <head>Witneſs</head>
+                  <item>Richard Lilburn</item>
+                  <item>John Lilburn</item>
+                  <item>George Grey</item>
+                  <item>Ralph Grey.</item>
+               </list>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
